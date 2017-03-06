@@ -1,0 +1,17 @@
+{
+  "name": "wendy_webjob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "engines": {
+    "node": "6.x.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.80.0"
+  }
+}
